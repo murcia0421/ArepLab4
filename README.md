@@ -1,4 +1,4 @@
-# Taller3_AREP: MicroSpring Framework
+# Taller4_AREP: MicroSpring Framework
 
 This project is a micro-framework in Java inspired by Spring Boot that enables you to build a minimal web server. The server:
 
@@ -21,14 +21,15 @@ Before you begin, ensure that you have the following installed:
 - **Apache Maven**  
   Download it from [Maven Official](https://maven.apache.org/download.cgi) and follow the installation instructions.
 - **Git** (optional, for cloning the repository)
+- **Docker** (for containerization and deployment)
+- **AWS CLI** (for AWS CodeBuild and deployment)
 
 ### Installation
 
 1. **Clone the repository:**
 
-  ```bash
-  https://github.com/murcia0421/ArepLab3.git
-  ```
+   ```bash
+   git clone https://github.com/murcia0421/ArepLab3.git
 
 2. **Navigate to the project directory:**
    
@@ -89,8 +90,11 @@ The project includes unit tests written with JUnit 5. To run the tests, use the 
   ```
 ![image](https://github.com/user-attachments/assets/fa049c4b-1b37-4dab-b2a0-98fe7867ef7e)
 ![image](https://github.com/user-attachments/assets/6157f48b-b022-4a98-958f-ea9296671839)
+https://github.com/user-attachments/assets/7ec39ced-142d-4efa-94bd-a32180665057
+
 
 ## Technologies Used
+
 
 - Java 17
 - Apache Maven
